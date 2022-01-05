@@ -1,0 +1,9 @@
+,true_circle,true_crack,true_displaced,true_good,true_low_level,true_scratch,true_splinter,true_waferonpin
+predicted_circle,28,8,6,10,0,18,0,0
+predicted_crack,4,102,0,4,0,5,0,1
+predicted_displaced,0,0,191,3,0,4,0,1
+predicted_good,3,0,0,213,0,3,0,0
+predicted_low_level,0,0,0,0,82,1,0,1
+predicted_scratch,6,6,8,8,2,83,0,1
+predicted_splinter,0,0,0,0,0,0,13,3
+predicted_waferonpin,0,0,0,1,2,4,0,44

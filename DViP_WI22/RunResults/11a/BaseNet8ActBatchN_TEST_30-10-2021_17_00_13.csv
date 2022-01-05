@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+circle,1.0,1.0,1.0,70.0
+good,1.0,1.0,1.0,220.0
+low_level,1.0,1.0,1.0,84.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,374.0
+weighted avg,1.0,1.0,1.0,374.0

@@ -1,0 +1,6 @@
+,true_circle,true_crack,true_displaced,true_good,true_low_level
+predicted_circle,40,13,5,12,0
+predicted_crack,4,108,2,2,0
+predicted_displaced,2,0,195,2,0
+predicted_good,3,0,1,215,0
+predicted_low_level,1,1,0,0,82
