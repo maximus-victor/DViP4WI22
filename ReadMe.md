@@ -1,7 +1,8 @@
-#A Light in the Dark: Deep Learning Practices for Industrial Computer Vision
+# A Light in the Dark: Deep Learning Practices for Industrial Computer Vision
+
+This is the repository for our Paper/Contribution to the WI2022 in Nürnberg.
 
 ## Abstract
-This is the repository for our Contribution to the WI2022 in Nuremberg.
 
 In recent years, large pre-trained deep neural networks (DNNs) have revolutionized the field of computer vision (CV).
 Although these DNNs have been shown to be very well suited for general image recognition tasks, application in industry is often precluded for three reasons: 
